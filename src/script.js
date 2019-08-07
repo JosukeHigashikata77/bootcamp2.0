@@ -1,1 +1,1 @@
-console.log("kirito sucks")  
+console.log("kirito sucks");
