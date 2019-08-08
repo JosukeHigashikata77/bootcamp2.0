@@ -18,3 +18,25 @@ Things I enjoy
   7. Win
  
 # Code
+
+You start an html file with `<html>`
+
+Some Javasript code I wrote
+
+```javascript
+console.log("bruh");
+window.aler("It be like that sometimes")
+```
+# Tables: Evo
+
+| GO1                 | SonicFox      | 
+|:-------------------:|:-------------:| 
+| 1st Place DBFZ      | 2nd Place DBFZ|
+| Cyclops Gaming      | Fox Gaming    | 
+| Goku,Bardock,gtgoku | bardock,kidbuu,gtgoku| 
+
+# Images
+
+This is the evo game lineup:
+
+![alt text](http://i1.wp.com/shoryuken.com/wp-content/uploads/2019/02/evo-2019-main-stage-games-crop.jpg?fit=750%2C400&resize=750%2C400")
