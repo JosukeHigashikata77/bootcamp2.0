@@ -40,3 +40,6 @@ window.aler("It be like that sometimes")
 This is the evo game lineup:
 
 ![alt text](http://i1.wp.com/shoryuken.com/wp-content/uploads/2019/02/evo-2019-main-stage-games-crop.jpg?fit=750%2C400&resize=750%2C400")
+
+![alt text](https://i.kinja-img.com/gawker-media/image/upload/s--ByrGK4wf--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/ijv1mkntbegszr0sqgkp.png)
+
